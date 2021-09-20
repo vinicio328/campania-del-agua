@@ -1,0 +1,8 @@
+{
+  "name": "Campania del Agua",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "cec8a792"
+}

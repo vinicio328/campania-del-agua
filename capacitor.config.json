@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Campania del Agua",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
